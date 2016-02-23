@@ -23,6 +23,10 @@ body {
   background-color: #3F0;
 }
 
+div section {
+  background-color: blue;
+}
+
 section {
     margin: 3em 0;
 }
